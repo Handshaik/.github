@@ -2,7 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Website-handshaik.com-purple)](https://handshaik.com)
 [![Careers](https://img.shields.io/badge/Careers-We’re_Hiring!-green)](https://handshaik.com/careers)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-blue?logo=linkedin)](https://www.linkedin.com/company/handshaik)
+[![Terms](https://img.shields.io/badge/Terms-&_Privacy-grey)](https://www.handshaik.com/legal/privacy-policy)
 ---
 
 ## 🖇️ About Handshaik
