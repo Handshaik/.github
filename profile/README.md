@@ -1,7 +1,7 @@
 # 🤝 Handshaik
 
 [![Website](https://img.shields.io/badge/Website-handshaik.com-purple)](https://handshaik.com)
-[![Careers](https://img.shields.io/badge/Careers-We’re_Hiring!-green)](https://handshaik.com/careers)
+[![Careers](https://img.shields.io/badge/Careers-We’re_Hiring!-green)](https://handshaik.notion.site/careers-at-handshaik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-blue?logo=linkedin)](https://www.linkedin.com/company/handshaik)
 [![Terms](https://img.shields.io/badge/Terms-&_Privacy-grey)](https://www.handshaik.com/legal/privacy-policy)
 ---
@@ -45,7 +45,7 @@ At Handshaik, values guide everything we do:
 
 ## 📬 Connect
 - 🌐 Website: [handshaik.com](https://handshaik.com)  
-- 💼 Careers: [handshaik.com/careers](https://handshaik.com/careers)  
+- 💼 Careers: [handshaik.com/careers](https://handshaik.notion.site/careers-at-handshaik)  
 - 🔗 LinkedIn: [linkedin.com/company/handshaik](https://www.linkedin.com/company/handshaik)  
 
 ---
